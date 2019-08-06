@@ -1,14 +1,10 @@
 # Module 1: Getting started with Microsoft Azure
-
 # Lab: Using the Azure portals
+## Table of Contents
 
-### Table of Contents
+[Overview](#overview)
 
-<!--ts-->
-
-- [Overview](#overview)
-
-- [Pre-requisites](#pre-requisites) 
+[Pre-requisites](#pre-requisites) 
 
 - [Exercise 1: Customizing the Azure portal interface](#exercise-1-Customizing-the-Azure-portal-interface)
     - [Task 1: Connect to the Azure portal](#Task-1-Connect-to-the-Azure-portal)
@@ -17,8 +13,6 @@
     - [Task 1: View resource cost and usage in the Azure portal](#Task1-View-resource-cost-and-usage-in-the-Azure-portal)
     - [Task 2: View billing data in the Azure Account Center](#Task-2-View-billing-data-in-the-Azure-Account-Center)
     - [Task 3: Prepare for the next module](#Task-3-Prepare-for-the-next-module)
-
-<!--te--> 
 
 ## Overview: 
 
